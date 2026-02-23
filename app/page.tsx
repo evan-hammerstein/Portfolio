@@ -68,8 +68,8 @@ export default function Home() {
                 evanhammerstein@gmail.com
               </a>
               <p className="mt-5 max-w-xl text-lg leading-8 text-zinc-300">
-                Hi! My name is Evan. I am a Product and Growth Designer working with users to build data-driven
-                products that solve their real problems. I care about measurable improvement in empowering others in their projects and goals.
+                Hi! My name is Evan! I am a Product and Growth Designer working with users to build data-driven
+                products that solve their real problems. I care about measurable improvement in empowering others in their projects and goals. Feel free to reach out :)
               </p>
               <ul className="mt-5 space-y-1.5 text-sm text-zinc-400">
                 <li>Roles: PM, Growth, Product Design, Analyst</li>
