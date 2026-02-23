@@ -128,7 +128,7 @@ export default function Home() {
         <section id="projects" className="py-24">
           <h2 className="text-4xl font-semibold tracking-tight">Projects</h2>
           <p className="mt-3 mb-10 max-w-sm text-sm text-zinc-400">
-            Some of my best projects so far. Some are open-source, click on them to see their GitHub with demos in the GitHub releases!
+            Some of my cool projects so far. Some are open-source, click on them to see their GitHub with demos in the GitHub releases!
           </p>
           <div className="grid gap-4 sm:grid-cols-2">
             {PROJECTS.map((p) => (
